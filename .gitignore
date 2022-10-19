@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/.vscode/settings.json
+package-lock.json
 # testing
 /coverage
 
